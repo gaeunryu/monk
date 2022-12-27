@@ -19,6 +19,19 @@
     margin: 0;
 }
 
+.fix {
+	width: 15%;
+	top:0;
+	padding:20px;
+	height: 100%;
+	position: fixed;
+	right:0;
+	background-color: #FFFFFF;
+}
+
+.fix p {
+	font-size: 12px;
+}
 section {padding: 20px;
 width: center;}
 img {width:100%}
